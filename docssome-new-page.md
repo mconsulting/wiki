@@ -1,2 +1,0 @@
-# docs/Some New Page
-
