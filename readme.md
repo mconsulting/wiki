@@ -1,6 +1,5 @@
 # Wiki Home Page
 
-[[Theft of Trade Secrets]]
 
+[[Background]]
 
-[[Deprivation of Civil Rights]]
