@@ -2,3 +2,5 @@
 
 
 [[Theft of Trade Secrets]]
+
+[[Deprivation of civil rights]]
