@@ -1,2 +1,0 @@
-# Deprivation of Civil Rights
-
