@@ -1,3 +1,3 @@
 # Wiki Home Page
 
-[[\Theft of Trade Secrets]
+[[\Theft of Trade Secrets]]
