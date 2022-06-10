@@ -1,5 +1,4 @@
 # Wiki Home Page
 
 
-[[Background]]
 
